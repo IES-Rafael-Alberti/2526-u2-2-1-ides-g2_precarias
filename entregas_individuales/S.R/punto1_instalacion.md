@@ -25,4 +25,14 @@ Permite personalizar aspectos del entorno de desarrollo, como los accesos direct
 **Thonny:**
 La instalación es muy rápida y sin complicaciones, ya que no requiere registro ni licencia y ocupa menos espacio. Como el software es libre, no tiene restricciones de uso.
 
+## Imagenes del proceso de instalación:
+### Instalación PyCharm
+- Abrimos Jetbrains con nuestra licencia de estudiante
+![](capturas/instalacion_pycharm/1.png)
+- En el apartado de Download buscamos PyCharm
+![](capturas/instalacion_pycharm/2.png)
+- Descargamos la version de 989.05MB
+![](capturas/instalacion_pycharm/3.png)
+- Esperamos a que se termine de instalar el archivo ".exe"
+![](capturas/instalacion_pycharm/4.png)
 

@@ -1,7 +1,7 @@
 # Punto 1: Instalación de entornos de desarrollo, propietarios y libres.
 
 ## IDEs utilizados.
-- **IDE 1:** Pycharm (falta versión)
+- **IDE 1:** Pycharm 25.2.4
 - **IDE 2:** Spyder IDE 6.1.0
 
 ## Descripción de la tarea.

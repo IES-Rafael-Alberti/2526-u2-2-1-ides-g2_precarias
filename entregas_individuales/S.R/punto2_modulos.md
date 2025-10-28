@@ -14,6 +14,7 @@ En PyCharm, la instalación de extensiones se realiza a través del Marketplace 
 
 **Thonny:**
 En Thonny no existe un catálogo de plugins integrado dentro del IDE, por lo que no se puede navegar por una lista de extensiones como en otros IDEs. Para instalar thonny-error-explainer, primero tuve que buscar información externa en la página oficial de Thonny y en PyPi para encontrar algún plugin disponible. Luego lo instalé usando Herramientas -> Gestionar paquetes..., escribiendo el nombre del paquete y pulsando Instalar. Tras la instalación fue necesario reiniciar Thonny para que la extensión se activara correctamente. Este proceso es más manual y requiere conocer previamente el nombre del plugin que se quiere usar.
+
 ### Pregunta 2: ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 **PyCharm:** JetBrains AI Assistant
 Permite generar código automáticamente a partir de instrucciones en lenguaje natural, explica fragmentos de código, sugiere mejoras y corrige errores. Esto acelera la programación, ayuda a aprender buenas prácticas y facilita la comprensión de código complejo, lo que aumenta significativamente la eficiencia al desarrollar proyectos

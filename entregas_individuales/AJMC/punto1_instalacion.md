@@ -1,8 +1,8 @@
 # Punto 1: Instalación de entornos de desarrollo, propietarios y libres.
 
 ## IDEs utilizados.
-- **IDE 1:** Pycharm
-- **IDE 2:** Spyder IDE (faltan las versiones)
+- **IDE 1:** Pycharm (falta versión)
+- **IDE 2:** Spyder IDE 6.1.0
 
 ## Descripción de la tarea.
 Elegir 2 entornos de desarrollo, instalar ambos en el equipo y hacer capturas de pantallas del proceso de instalación.
@@ -15,6 +15,12 @@ Elegir 2 entornos de desarrollo, instalar ambos en el equipo y hacer capturas de
 
 ## Evidencias.
 ### Pycharm
+![](capturas/Pycharm_1.png)
+![](capturas/Pycharm_2.png)
+![](capturas/Pycharm_3.png)
+![](capturas/Pycharm_4.png)
+![](capturas/Pycharm_5.png)
+![](capturas/Pycharm_6.png)
 
 ### Spyder IDE
 ![](capturas/SpyderIDE_1.png)

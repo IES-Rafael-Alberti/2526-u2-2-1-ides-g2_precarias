@@ -1,8 +1,8 @@
 # Punto 6: Generación de ejecutables con diferentes IDEs a partir del mismo código fuente
 
 ## IDEs utilizados:
-- **IDE 1:** Pycharm
-- **IDE 2:** Spyder IDE (faltan las versiones)
+- **IDE 1:** Pycharm 25.2.4
+- **IDE 2:** Spyder IDE 6.1.0
 
 ## Descripción de la tarea.
 Escribir un programa en Python que cuente de 10 a 0 y luego imprima "¡Despegue!" ejecutando el programa en ambos IDEs.

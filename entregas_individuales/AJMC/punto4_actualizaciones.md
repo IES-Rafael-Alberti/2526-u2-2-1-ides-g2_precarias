@@ -1,8 +1,8 @@
 # Punto 4: Configuración del sistema de actualización del entorno de desarrollo
 
 ## IDEs utilizados.
-- **IDE 1:** Pycharm
-- **IDE 2:** Spyder IDE (faltan las versiones)
+- **IDE 1:** Pycharm 25.2.4
+- **IDE 2:** Spyder IDE 6.1.0
 
 ## Descripción de la tarea.
 Configurar las actualizaciones automáticas o manuales en ambos IDE.

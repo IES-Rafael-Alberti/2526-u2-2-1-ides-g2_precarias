@@ -14,6 +14,16 @@ Elegir 2 entornos de desarrollo, instalar ambos en el equipo y hacer capturas de
 ### Pregunta 2: ¿Qué ventajas identificaste en cada uno de los entornos durante la instalación?
 
 ## Evidencias.
+### Pycharm
+
+### Spyder IDE
 ![](capturas/SpyderIDE_1.png)
+![](capturas/SpyderIDE_2.png)
+![](capturas/SpyderIDE_3.png)
+![](capturas/SpyderIDE_4.png)
+![](capturas/SpyderIDE_5.png)
+![](capturas/SpyderIDE_6.png)
+![](capturas/SpyderIDE_7.png)
+![](capturas/SpyderIDE_8.png)
 
 ## Observaciones.

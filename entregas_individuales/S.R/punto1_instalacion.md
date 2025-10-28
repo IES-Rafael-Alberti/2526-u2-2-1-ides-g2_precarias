@@ -35,4 +35,26 @@ La instalación es muy rápida y sin complicaciones, ya que no requiere registro
 ![](capturas/instalacion_pycharm/3.png)
 - Esperamos a que se termine de instalar el archivo ".exe"
 ![](capturas/instalacion_pycharm/4.png)
+- Abrimos el archivo y configuramos las opciones
+![](capturas/instalacion_pycharm/5.png)
+![](capturas/instalacion_pycharm/6.png)
+![](capturas/instalacion_pycharm/7.png)
+- Una vez configurado, se abrirá el programa
+![](capturas/instalacion_pycharm/8.png)
 
+### Instalacion Thonny
+- Abrimos la página de Thonny
+![](capturas/instalacion_thonny/2.png)
+- Nos diriguimos al apartado de Downloads
+![](capturas/instalacion_thonny/1.png)
+- Elegimos el enlace correspondiente con nuestro dispositivo
+![](capturas/instalacion_thonny/3.png)
+- Esperamos a que se complete la descarga
+![](capturas/instalacion_thonny/4.png)
+- Iniciamos el programa y esperamos a que se descarguen los datos
+![](capturas/instalacion_thonny/5.png)
+- Seleccionamos el idioma y finalizamos la descarga
+![](capturas/instalacion_thonny/8.png)
+![](capturas/instalacion_thonny/7.png)
+- Abrimos de nuevo el programa
+![](capturas/instalacion_thonny/9.png)

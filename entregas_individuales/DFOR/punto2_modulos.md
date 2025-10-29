@@ -3,10 +3,10 @@
 ## IDEs utilizados
 
 -  **IDE 1:** IDE propietario **IntelliJ IDEA Ultimate** -
-    Versión: IntelliJ IDEA 2025.2.4 -- 21.0.8+1-b1038.73 amd64 (JCEF 122.1.9)
+    Versión: IntelliJ IDEA 2025.2.4 
 
 -  **IDE 2:** IDE libre - **LiClipse** - 
-    Versión : 12.0.1.202502081502
+    Versión : 12.0.1
 
 ## Descripción de la tarea
 
@@ -49,6 +49,24 @@ https://marketplace.eclipse.org/
 
 > demás, el update site es más flexible y confiable para este tipo de plugins.
 
+Instalacion de plugins en **IntelliJ IDEA Ultimate** 
+
+### **Opción 1: Desde el propio IDE (la más común)**
+
+1.  **Abre IntelliJ IDEA**.
+    
+2.  Ve a **File → Settings** (o **Ctrl + Alt + S**).
+    
+3.  En el menú de la izquierda, entra a **Plugins**.
+    
+4.  En la pestaña **Marketplace**, busca el plugin que quieras (por nombre).
+    
+5.  Pulsa **Install**.
+    
+6.  Cuando termine, **reinicia IntelliJ IDEA** para activar el plugin.
+
+
+
 ### Pregunta 2: ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 
 >mayor comprecion del entorno de trabjo y facilidad de navegacion para el usuario 
@@ -59,6 +77,9 @@ https://marketplace.eclipse.org/
 ![error](./capturas/Error%20xml.png)
 
 ![liclipse_en_español](./capturas/liclipse_es.jpg)
+
+![plugin_Idea](./capturas/plugin_Idea.jpg)
+
 
 ## Observaciones
 > leer con cuidado y paso a paso 

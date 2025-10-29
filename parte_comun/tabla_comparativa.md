@@ -93,7 +93,32 @@
 ---
 
 ## Conclusiones de la comparación
-[Análisis general de las diferencias y similitudes encontradas entre todos los IDEs]
+
+Tras analizar los 10 IDEs, se pueden destacar las siguientes conclusiones:
+
+1. **IntelliJ IDEA Ultimate y PyCharm Professional**  
+   - Líderes en funcionalidad avanzada: depuración, autocompletado, refactorización, pruebas automatizadas, soporte de frameworks y bases de datos.  
+   - Muy personalizables y con integración completa de control de versiones y sistemas de compilación/build (Maven/Gradle).  
+   - Ideales para proyectos profesionales y colaborativos, aunque con coste asociado.  
+
+2. **Visual Studio Code**  
+   - Extremadamente flexible gracias a extensiones, soporta múltiples lenguajes, frameworks, pruebas y control de versiones.  
+   - Su ventaja es ser gratuito y altamente personalizable, aunque algunas funciones requieren configuración manual mediante plugins.  
+
+3. **Spyder y Thonny**  
+   - Enfocados en Python y proyectos educativos o de ciencia de datos.  
+   - Funcionalidades básicas de depuración, autocompletado y entornos virtuales.  
+   - Limitados en soporte para frameworks, compilación, bases de datos y automatización de tareas.  
+
+4. **LiClipse y Fleet**  
+   - IDEs en evolución con soporte medio para múltiples lenguajes y frameworks.  
+   - Personalización media y depuración básica.  
+   - Su integración con compilación, control de versiones y automatización es parcial o depende de plugins.  
+
+5. **Patrones generales**  
+   - Los IDEs más avanzados tienden a ser de pago (JetBrains), mientras que los gratuitos son más simples y educativos.  
+   - La elección depende del tipo de proyecto: aprendizaje y ciencia de datos → Thonny o Spyder; desarrollo profesional → IntelliJ IDEA o PyCharm; desarrollo multi-lenguaje flexible → VS Code.  
+
 
 ## Leyenda
 - ✅ Soportado completamente

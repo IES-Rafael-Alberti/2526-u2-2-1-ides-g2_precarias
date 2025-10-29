@@ -26,5 +26,7 @@ Las extensiones ayudan a programar con más facilidad. Pylint mejora la calidad 
 autopep8 da formato automático al código, debugger for java permite depurar programas y extension pack for java añade soporte completo para trabajar con java.
 
 ## Evidencias
-![Panel de extensiones IDE 1](capturas/punto2_ide1_extensiones.png)
-![Panel de extensiones IDE 2](capturas/punto2_ide2_extensiones.png)
+- IntelIJ IDEA
+![Panel de extensiones IDE 1](capturas/punto2_ide1_modulos.png)
+- Visual Studio Code
+![Panel de extensiones IDE 2](capturas/punto2_ide2_modulos.png)

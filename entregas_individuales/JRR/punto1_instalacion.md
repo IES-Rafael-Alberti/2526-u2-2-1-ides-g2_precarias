@@ -1,8 +1,8 @@
 # Punto 1: Instalación de entornos de desarrollo, propietarios y libres
 
 ## IDEs utilizados
-- **IDE 1:** IntelliJIDEA
-- **IDE 2:** [Nombre IDE libre - ej: Visual Studio Code] - Versión X.X.X
+- **IDE 1:** IntelliJIDEA Ultimate 2025.2.4
+- **IDE 2:** Visual Studio Code 1.105
 
 ## Descripción de la tarea
 En este primer punto de esta segunda practica de clase, enseñare paso a paso como instalo dos IDE y comparando las diferencias que tienen la instalación de un IDE libre y uno de propietario.

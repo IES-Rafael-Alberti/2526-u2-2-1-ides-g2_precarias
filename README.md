@@ -10,11 +10,10 @@
 
 | Nombre y Apellidos | Correo Electrónico | Iniciales |
 |-------------------|-------------------|-----------|
-| [Nombre Alumno 1] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 2] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 3] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 4] | [email@g.educaand.es] | [XXX] |
-| [Nombre Alumno 5] | [email@g.educaand.es] | [XXX] |
+| Antonio Jesus Mora Cabeza | nmorcab2106@g.educaand.es | AJMC |
+| Sara Romero Peralta | sromper0610@g.educaand.es | SRP |
+| Daniel felipe Oliveros rojas | doliroj929@g.educaand.es | DFOR |
+| Jesus Rodriguez Rodriguez | jrodrod679@g.educaand.es | JRR |
 
 ---
 

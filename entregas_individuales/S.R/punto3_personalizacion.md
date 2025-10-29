@@ -28,3 +28,25 @@ Para la automatización utilicé la herramienta de Macros de PyCharm: grabé un 
 
 **Thonny:**
 No es posible, en este IDE, automatizar tareas de forma nativa; cualquier automatización requiere de la instalación de un plugin externo. Instalé, para probarlo, el plugin thonny-autosave mediante Herramientas -> Gestionar paquetes..., el cual permite guardar automáticamente el script cada cierto tiempo.
+
+## Imagenes del proceso:
+### Proceso en PyCharm:
+- Buscamos la opción de "Macros" (con el buscador de palabras) y empezamos la grabación
+![](capturas/Atajos/atajos_pycharm/1.png)
+- Escribimos el código que queremos que se grabe en el Macro
+![](capturas/Atajos/atajos_pycharm/2.png)
+- Paramos la grabación una vez hemos escrito todo el código que deseabamos
+![](capturas/Atajos/atajos_pycharm/3.png)
+- Ponemos nombre a la macro
+![](capturas/Atajos/atajos_pycharm/4.png)
+- Buscamos la opción Keymap y vamos al apartado Macros. Buscamos el macro que acabamos de hacer y le damos a "Add Keyboard Shortcut"
+![](capturas/Atajos/atajos_pycharm/5.png)
+![](capturas/Atajos/atajos_pycharm/6.png)
+- Añadimos las teclas que vamos a usar para el atajo
+![](capturas/Atajos/atajos_pycharm/7.png)
+- Guardamos la macro y se nos crea automáticamente un atajo de teclado con las teclas que hayamos introducido
+![](capturas/Atajos/atajos_pycharm/8.png)
+
+### Proceso en Thonny:
+- Como thonny no permite muchas opciones de configuración, repitiendo los pasos del módulo 2, buscamos alguna extensión que nos ayude con la automatización de alguna tarea y lo instalamos
+![](capturas/Atajos/atajos_thonny/Captura%20de%20pantalla%202025-10-27%20092618.png)

@@ -21,4 +21,25 @@ Permite generar código automáticamente a partir de instrucciones en lenguaje n
 
 ## Imagenes del proceso:
 ### Proceso en PyCharm:
+- Nos diriguimos al apartado de plugins, seleccionamos el que nos sea de interes y descargamos
+![](capturas/extensiones/extensiones_pycharm/1.png)
+- Veremos ahora que al hacer click derecho nos da la opción de usar la extensión
+![](capturas/extensiones/extensiones_pycharm/2.png)
+- A la derecha del código saldrá la extensión y sus funciones para configurar
+![](capturas/extensiones/extensiones_pycharm/3.png)
+
 ### Proceso en Thonny:
+- Vamos a la página oficial de Thonny
+![](capturas/extensiones/extensiones_thonny/1.png)
+- Buscamos el enlace a los plugins
+![](capturas/extensiones/extensiones_thonny/2.png)
+- Observamos los plugins y vemos cual nos es de interes
+![](capturas/extensiones/extensiones_thonny/3.png)
+- Vamos a las herramientas del programa Thonny
+![](capturas/extensiones/extensiones_thonny/4.png)
+- Le damos a administrar plugins y buscamos el que nos ha sido de interes
+![](capturas/extensiones/extensiones_thonny/5.png)
+- Lo instalamos
+![](capturas/extensiones/extensiones_thonny/6.png)
+- Lo probamos escribiendo algo mal en el código
+![](capturas/extensiones/extensiones_thonny/7.png)

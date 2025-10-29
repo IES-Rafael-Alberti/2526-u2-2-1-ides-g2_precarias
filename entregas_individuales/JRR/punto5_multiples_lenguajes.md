@@ -43,4 +43,4 @@ Ambos lenguajes permiten ver resultados de forma rápida, aunque Python se usa m
 
 ## Evidencias
 ![Ejecución en lenguaje 1](capturas/punto5_ide1_multiples1.png)
-![Ejecución en lenguaje 2](capturas/punto5_ide1_multiples1.png)
+![Ejecución en lenguaje 2](capturas/punto5_ide1_multiples.png)

@@ -72,31 +72,31 @@ Si el equipo busca flexibilidad, **VS Code** sería ideal por su soporte para m�
 
 ## Identificación de "mejores" por categoría
 
-### 🏆 Mejor IDE general  
+### Mejor IDE general  
 **Visual Studio Code**  
 - Razones: Ligero, rápido, compatible con muchos lenguajes y extensiones.
 
-### 🚀 Mejor rendimiento  
+### Mejor rendimiento  
 **Fleet**  
 - Razones: Rápido al ejecutar código y consumir pocos recursos.
 
-### 🎨 Mejor personalización  
+### Mejor personalización  
 **VS Code**  
 - Razones: Tiene una gran cantidad de temas, iconos y configuraciones.
 
-### 🔌 Mejor ecosistema de plugins  
+### Mejor ecosistema de plugins  
 **Pycharm**  
 - Razones: Dispone de plugins muy útiles para Python y frameworks de desarrollo.
 
-### 💰 Mejor relación calidad-precio  
+### Mejor relación calidad-precio  
 **VS Code**  
 - Razones: Es totalmente gratuito y con funciones similares a IDEs de pago.
 
-### 👶 Mejor para principiantes  
+### Mejor para principiantes  
 **Thonny**  
 - Razones: Interfaz simple y pensada para aprender sin distracciones.
 
-### 👨‍💼 Mejor para profesionales  
+### Mejor para profesionales  
 **IntelliJ IDEA**  
 - Razones: Ofrece herramientas avanzadas de depuración, análisis y gestión de proyectos grandes.
 

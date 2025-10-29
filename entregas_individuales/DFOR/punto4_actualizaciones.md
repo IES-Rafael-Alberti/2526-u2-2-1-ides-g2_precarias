@@ -76,7 +76,7 @@ Es una pequeña inversión de tiempo que se traduce en **mucha eficiencia** y se
 
 
 ## Evidencias
-![Configuración_actualizaciones_IDEA](./capturas/actulizacion_IDEA.jpg)
+![Configuración_actualizaciones_IDEA](./capturas/)
 
 
 ![Configuración_actualizaciones_Liclipse](./capturas/Actulizaciones_liclipse.jpg)

@@ -26,9 +26,7 @@ https://download.eclipse.org/technology/babel/update-site/latest/
 
 ### Pregunta 1: ¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?
 
->Fue una experienca llena de enojo y frustacion 
-Siendo que es proceso es supremamente complejo
-tiempo invertido **2:30 (2 hora y media )**
+>Fue una experiencia llena de enojo y frustración. El proceso es supremamente complejo. Tiempo invertido: 2:30 (dos horas y media). ya que la marketplace eclipse no funciona 
 
 >en un princio se salia un un mensaje que decia que habia error con la lectura con el XML 
 realice los siente paso:
@@ -39,7 +37,7 @@ realice los siente paso:
 * Cambiar configuración de red
 * Verificar la URL del Marketplace
 
-> No funcionaron estos metodos y la altenativa que me encontre fue ingresar diretatamente ha :
+> No funcionaron estos metodos y la altenativa que me encontre fue ingresar diretatamente ha: 
 
 https://marketplace.eclipse.org/
 

@@ -8,11 +8,64 @@ Escribir un programa que cuente de 10 a 0 y luego imprima "¡Despegue!" usando u
 
 # Respuesta a preguntas evaluables
 ### Pregunta 1: ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
-Creé en Visual Studio Code dos archivos separados, uno en Java y otro en kotlin, pero para ello primero me tuve que instalar los plugins/extensiones correspondientes a cada uno de los lenguajes. El objetivo de ambos lenguajes es contar de 10 a 0 y mostrar "¡Despeque!".
-Escribí el código de cada versión, lo compilé y ejecuté directamente desde la terminal integrada del IDE, usando los comandos específicos de cada lenguaje (*javac* y *java* para Java y *Kotlin* para Kotlin).
-De esta forma, pude trabajar con ambos lenguajes en el mismo entorno sin cambiar de programa.
+Creé en Visual Studio Code dos archivos separados: uno en Java y otro en Kotlin. Para poder trabajar con ambos lenguajes, instalé las extensiones correspondientes a cada uno.
+El objetivo del programa era contar de 10 a 0 y mostrar “¡Despegue!”.
+
+En el caso de Java, el proceso fue compilar el archivo .java con el comando javac, lo que generó un archivo .class con el bytecode. Luego, ejecuté el programa con el comando java.
+
+En Kotlin, utilicé el compilador kotlinc, que traduce el archivo .kt también a bytecode compatible con la JVM. Posteriormente, se puede ejecutar con el comando java -jar si se genera un .jar, o directamente desde el compilador.
+
+De esta forma, ambos lenguajes pudieron ejecutarse dentro del mismo IDE y sobre la misma plataforma, la Java Virtual Machine (JVM).
 
 ### Pregunta 2: ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
-En Java, el archivo fuente (.java) se compila con javac, generando un archivo .class con bytecode que luego se ejecuta con la JVM mediante el comando java.
-En Kotlin, el compilador (kotlinc) también genera bytecode compatible con la JVM, pero el proceso puede producir directamente un .jar ejecutable o archivos .class de forma más automática.
-En resumen, ambos lenguajes generan bytecode para la JVM, pero kotlin simplifica el proceso, mientras que Java requiere compilar y ejecutar en pasos separados.
+En Java, el proceso de compilación y ejecución ocurre en dos pasos:
+
+- El compilador javac convierte el código fuente (.java) en bytecode, guardado en un archivo .class.
+- Luego, el comando java ejecuta ese bytecode dentro de la JVM.
+
+En Kotlin, el compilador kotlinc realiza un proceso similar: traduce el código del archivo .kt a Java bytecode, pero ofrece la opción de generar directamente un archivo .jar ejecutable.
+
+En resumen, ambos lenguajes generan el mismo tipo de bytecode que interpreta la JVM, pero Kotlin simplifica el proceso al permitir crear y ejecutar el programa en menos pasos, integrando la compilación y empaquetado de manera más automática.
+
+## Imagenes del proceso:
+### Proceso en Java:
+- Buscamos la extensión de Java
+
+![](capturas/codigo_dos_lenguajes/java/1.png)
+
+- Instalamos dicha extensión
+
+![](capturas/codigo_dos_lenguajes/java/2.png)
+
+- Creamos un nuevo documento en el lenguaje Java
+
+![](capturas/codigo_dos_lenguajes/java/3.png)
+
+- Implementamos el código
+
+![](capturas/codigo_dos_lenguajes/java/4.png)
+
+- Ejecutamos el código
+
+![](capturas/codigo_dos_lenguajes/java/ejecucion.jpg)
+
+### Proceso en Kotlin:
+- Buscamos la extensión de Kotlin
+
+![](capturas/codigo_dos_lenguajes/kotlin/1.png)
+
+- Instalamos dicha extensión
+
+![](capturas/codigo_dos_lenguajes/kotlin/2.png)
+
+- Creamos un nuevo documento en el lenguaje Java
+
+![](capturas/codigo_dos_lenguajes/kotlin/3.png)
+
+- Implementamos el código
+
+![](capturas/codigo_dos_lenguajes/kotlin/4.png)
+
+- Ejecutamos el código
+
+![](capturas/codigo_dos_lenguajes/kotlin/ejecución.jpg)

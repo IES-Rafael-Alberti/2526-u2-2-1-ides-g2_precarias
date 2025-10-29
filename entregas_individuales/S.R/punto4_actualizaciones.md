@@ -21,3 +21,14 @@ Cuando existe una versión más reciente, descargo e instalo el paquete actualiz
 ### 2. ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
 Mentener el IDE actualizado es fundamental porque las nuevas versiones corrigen errores, mejoran el rendimiento y añaden compatibilidad con versiones recientes de Python o librerías externas.
 Además, las actualizaciones suelen incluir mejoras en la seguridad y nuevas.
+
+## Imagenes del proceso:
+### Proceso en PyCharm:
+
+- Vamos a Settings -> Updates y seleccionamos todas las opciones que haya
+![](capturas/actualizaciones/actializaciones_pycharm/1.png)
+
+### Proceso en Thonny:
+- Como thonny no permite activar actualización automática, simplemente observamos su versión y comprobamos que sea la más nueva
+
+![](capturas/actualizaciones/actualizaciones_thonny/1.png)
